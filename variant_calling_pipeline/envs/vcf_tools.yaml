@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - htslib
+  - bcftools
+  - python>=3.8
